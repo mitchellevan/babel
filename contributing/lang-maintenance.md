@@ -33,7 +33,7 @@ The file lang-strings.txt contains the directly translatable strings, which is c
 
 * Confirm the week starts on Monday in this country. Example: [Calendar for Year 2024 (Antigua and Barbuda) - TimeAndDate](https://www.timeanddate.com/calendar/?year=2024&country=221)
 * Put the later hours on a random day of the week. (So we can ask participants a usability question about the table: When is the library open later?)
-* Localize the time range with the [Date and Time Localizer](../utility/date-time-localizer.html) tool. But don't trust the dash character: see <a href="https://github.com/ThePacielloGroup/babel/issues/38">issue 38</a>.
+* Localize the time range with the [Date and Time Localizer](../utility/date-time-localizer.html) tool. But don't trust the dash character: see <a href="https://github.com/mitchellevan/babel/issues/38">issue 38</a>.
 
 ## List of links: Web pages in the target language
 
