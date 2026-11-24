@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you cite Barriers of Babel, please use the metadata in this file."
+type: software
+title: "Barriers of Babel"
+abstract: >-
+  Investigating how human languages affect digital accessibility.
+  Includes a test suite of multilingual web content, test results,
+  presentations, and tools.
+  Portions copyright 2024–2025 Vispero (original work, first published as
+  ThePacielloGroup/babel); portions copyright 2026 Mitchell Evan
+  (subsequent changes).
+authors:
+  - given-names: Mitchell
+    family-names: Evan
+  - name: Vispero
+repository-code: "https://github.com/mitchellevan/babel"
+url: "https://mitchellevan.github.io/babel/"
+license: GPL-3.0-or-later
+keywords:
+  - accessibility
+  - multilingual
+  - internationalization
+  - assistive technology
+  - screen readers
+  - text-to-speech
+  - language
