@@ -9,6 +9,6 @@
 
 This site is static HTML, CSS, and JavaScript — no build required.
 
+* [How to contribute](https://github.com/firstcontributions/first-contributions) GitHub beginner's guide
 * [See the code](https://github.com/mitchellevan/babel/) for Barriers of Babel
-* [How to contribute](https://github.com/firstcontributions/first-contributions) beginner's guide
 * [How to create and maintain the language demo pages](contributing/lang-maintenance.md)
