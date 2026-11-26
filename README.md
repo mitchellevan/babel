@@ -5,6 +5,12 @@ How do human languages affect digital accessibility?
 * See the [home page](https://mitchellevan.github.io/babel/)
 * How to [contribute](CONTRIBUTING.md)
 
+## Citation
+
+[![DOI: 10.5281/zenodo.24554563](https://zenodo.org/badge/DOI/10.5281/zenodo.24554563.svg)](https://doi.org/10.5281/zenodo.24554563)
+
+To cite this project, see [CITATION.cff](CITATION.cff) or use "Cite this repository" in the GitHub sidebar.
+
 ## Copyright and license
 
 Barriers of Babel was created by Mitchell Evan.

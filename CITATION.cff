@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you cite Barriers of Babel, please use the metadata in this file."
 type: software
 title: "Barriers of Babel"
+doi: 10.5281/zenodo.24554563
 abstract: >-
   Investigating how human languages affect digital accessibility.
   Includes a test suite of multilingual web content, test results,
